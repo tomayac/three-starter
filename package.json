@@ -12,7 +12,7 @@
     "three": "latest"
   },
   "devDependencies": {
-    "vite": "^8.3.5",
+    "vite": "latest",
     "vite-plugin-cross-origin-storage": "latest"
   }
 }
