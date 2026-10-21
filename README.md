@@ -8,8 +8,8 @@ SPDX-License-Identifier: Apache-2.0
 A minimal [Vite](https://vite.dev/) project for three.js.
 
 ```bash
-npx tiged tomayac/three-starter three-project
-cd three-project
+npx tiged tomayac/three-starter three-starter
+cd three-starter
 
 npm install
 npm run dev
