@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "vite": "^8.3.5",
-    "vite-plugin-cross-origin-storage": "^2.0.3"
+    "vite-plugin-cross-origin-storage": "latest"
   }
 }
