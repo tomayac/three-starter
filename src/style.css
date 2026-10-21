@@ -1,0 +1,15 @@
+/*
+ * SPDX-FileCopyrightText: 2026 Thomas Steiner
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+html, body {
+	margin: 0;
+	height: 100%;
+	overflow: hidden;
+	background: #111;
+}
+
+canvas {
+	display: block;
+}

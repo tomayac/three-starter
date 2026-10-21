@@ -1,0 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Thomas Steiner
+SPDX-License-Identifier: Apache-2.0
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+	<path d="M16 2 30 28H2Z" fill="#049ef4"/>
+	<path d="M16 15 23 28H9Z" fill="#111"/>
+</svg>
